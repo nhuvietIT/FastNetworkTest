@@ -1,5 +1,5 @@
 package sega.fastnetwork.test.activity
-
+// nguyen nhu viet
 import android.Manifest
 import android.app.Activity
 import android.app.Notification
